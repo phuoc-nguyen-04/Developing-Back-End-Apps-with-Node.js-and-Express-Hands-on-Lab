@@ -1,3 +1,4 @@
+# Developing-Back-End-Apps-with-Node.js-and-Express-Hands-on-Lab
 ## Bookstore API Lab (Coursera Mooc-2)
 
 ### Run
@@ -76,4 +77,4 @@ npm run client
 - JWT secret can be set with `JWT_SECRET` env variable.
 
 
-# Developing-Back-End-Apps-with-Node.js-and-Express-Hands-on-Lab
+
